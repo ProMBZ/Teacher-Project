@@ -4,3 +4,4 @@ langchain-google-genai
 google-generativeai 
 reportlab
 python-dateutil
+langchain
